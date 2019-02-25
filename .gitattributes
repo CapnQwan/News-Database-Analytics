@@ -1,0 +1,2 @@
+newsdata.sql filter=lfs diff=lfs merge=lfs -text
+.vagrant filter=lfs diff=lfs merge=lfs -text
